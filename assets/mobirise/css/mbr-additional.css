@@ -324,21 +324,21 @@ body {
 .btn-success-outline:active,
 .btn-success-outline.active {
   background: none !important;
-  border-color: #995800 !important;
-  color: #995800 !important;
+  border-color: #da07ea !important;
+  color: #c40bd2 !important;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus {
   color: #ffffff !important;
-  background-color: #ff9300 !important;
-  border-color: #ff9300 !important;
+  background-color: #e82ef6 !important;
+  border-color: #e82ef6 !important;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff9300 !important;
-  border-color: #ff9300 !important;
+  background-color: #e82ef6 !important;
+  border-color: #e82ef6 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active,
@@ -421,7 +421,7 @@ body {
   color: #333333 !important;
 }
 .text-success {
-  color: #ff9300 !important;
+  color: #e82ef6 !important;
 }
 .text-info {
   color: #709faf !important;
@@ -2219,7 +2219,7 @@ section.lazy-placeholder:after {
   z-index: 1;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  background-color: #ff9300;
+  background-color: #e52df3;
 }
 .cid-rO8V5ijoLj .card .card-wrapper .card-img .img-text span {
   display: block;
@@ -3995,3 +3995,4 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #1c002e;
 }
+© 2020 GitHub, Inc.
